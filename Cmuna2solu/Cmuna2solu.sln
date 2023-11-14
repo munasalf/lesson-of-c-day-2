@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cmuna2", "Cmuna2\Cmuna2.csproj", "{F31263B4-2B2F-47D1-8B5D-3140505D4250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F31263B4-2B2F-47D1-8B5D-3140505D4250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31263B4-2B2F-47D1-8B5D-3140505D4250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31263B4-2B2F-47D1-8B5D-3140505D4250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31263B4-2B2F-47D1-8B5D-3140505D4250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4AF8FFB-3F27-4675-A56B-56A078A3100E}
+	EndGlobalSection
+EndGlobal
