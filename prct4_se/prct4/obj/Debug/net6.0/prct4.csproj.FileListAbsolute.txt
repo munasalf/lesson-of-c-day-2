@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\bin\Debug\net6.0\prct4.exe
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\bin\Debug\net6.0\prct4.deps.json
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\bin\Debug\net6.0\prct4.runtimeconfig.json
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\bin\Debug\net6.0\prct4.dll
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\bin\Debug\net6.0\prct4.pdb
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\obj\Debug\net6.0\prct4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\obj\Debug\net6.0\prct4.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\obj\Debug\net6.0\prct4.AssemblyInfo.cs
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\obj\Debug\net6.0\prct4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\obj\Debug\net6.0\prct4.dll
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\obj\Debug\net6.0\refint\prct4.dll
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\obj\Debug\net6.0\prct4.pdb
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\obj\Debug\net6.0\prct4.genruntimeconfig.cache
+C:\Users\admin\Downloads\makeen\Coding\prct4_se\prct4\obj\Debug\net6.0\ref\prct4.dll
